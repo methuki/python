@@ -1,0 +1,99 @@
+#! /usr/bin/python3
+
+Page 1
+
+Table of Contents
+ 
+1. Cash flow per share
+2. Current ratio
+3. Divident yield
+4. Earnings per share (EPS)
+5. Net profit margin
+6. Price/Book/Ratio
+7. Price/Earnings/Ratio(P/E or multiple)
+8. Price/Sales Ratio (P/S or PSR)
+9. Price/Cash-flow Ratio (P/CF)
+10. Returt on equity
+
+
+Page 2
+
+Stock Market Investing
+
+Fundemental Stock Measurments
+
+1. Cash Flow
+Number of shares outstandinig
+
+* Show what we are paying for the cash flow               
+                                                     "Current Assets are
+                                                       three times CLS."    
+                                                
+                                                        
+2. Current Ratio                          
+                                  300,000
+Current Assets                    100,000      
+Current Liabilities                       3:1
+
+Assets = Everthing the company owns
+Current assets = Things that are use up frequently
+Liabilities - Everything it owns
+Current liabilities = Due within one year
+
+*Look for companies with at least 2:1
+
+3. Divident Yield
+
+Amount   Annual cash Divident
+         Current Price
+
+* Show the moving price ( Because the
+divident is ( most of the time ) constant)
+
+4. Earnings Per Share (EPS)
+
+   Company Earnings
+   Number of shares outstanding
+
+* Reported either last quarter or last year
+
+(Usually $1 - $5 , Spikes $10 - $20 , minus when losing.)
+
+* Subject to maniputation and market pressure.
+
+Earnings momentum (Earning Acceleration)
+	"The big mo"
+		--> to identify Growth companies
+Earnings Surprises = rise and fall sharply
+
+page 193(Nearest Guid)
+Revenue(Top Line) = Gross Sales = Income
+Total Revenue - Total Cost = Gross Profit
+	99,870 - 53,857 = 46,013
+
+  Gross Profit - Expences , income tax = Net Income
+46.013 - 31,181      = 14,832
+
+Earnings Per Share = Net Income      14,833,000,000
+		     Number of share 1,268,789,202 
+
+5. Net Profit Margin
+
+    Money left after expences
+    Money left before expences
+
+Before   1,000,000
+	   700,000
+Expence
+After = 1,000,000 - 700,000 = 300,000
+
+
+Less expences makes the margin go higher
+***
+High profit margin tell you - Good Management
+			    They survive the compition
+					within the industry
+
+6. Price / Book Ratio
+		Stocks price
+		Stocks Worth (Book Value)
