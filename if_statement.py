@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 
+### This program give everyone in my family 3 SNL skits
 
 name = input("What is your name? (print in lower case)\n")
 target = "https://www.youtube.com/watch?v=YvT_gqs5ETk\n"

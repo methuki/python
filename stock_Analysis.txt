@@ -1,5 +1,7 @@
 #! /usr/bin/python3
 
+### This program is for my mother's Blog
+
 Page 1
 
 Table of Contents
@@ -96,4 +98,76 @@ High profit margin tell you - Good Management
 
 6. Price / Book Ratio
 		Stocks price
-		Stocks Worth (Book Value)
+    (Stock holdings  		Stocks Worth (Book Value)
+      equity)
+Book Value - Company Value ( Office space telip
+	     Number of Shares Outstanding   ect....)
+
+
+
+7. Price / Earnings Ratio (P/E or Multiple)
+
+	Price
+	Earnings
+
+Trailing P/E = Past 12 months
+
+Forward P/E = Next year (Analyst)
+
+to see if the stock is selling for a good price.
+(Put the price in context with company
+earnings.
+	 lesser the price.
+high P/E - Riskier
+Low P/E - Slow growth companies
+
+Mature companies w/ low P/E pay Dividents
+
+New Companies w/ high P/E P?E do not
+
+8. Price / Sales Ratio  (P/S or PSR)
+
+
+	Total Market Value
+     Most Recent 4 Quater Sales Revenue
+
+		or
+	Price Per Share
+	Sales Per Share
+
+eg. if shares outstanding = 10
+current price = $400
+then Total market value = $4,000	(10 × 400)
+if Sales = 10,000
+then Sales per Share = 1,000		(10,000 ÷ 10)
+
+			÷   40
+
+
+9. Price / Cash - Flow Ratio (P/CF)
+
+if cash flow = $80
+price = $400
+then P/CF = 800 = 10
+	     80  
+Cash flow yeild = 80 / 800 - 0.10(10 %)
+
+10. Retern On Equity  (ROG)
+
+
+	Net Income
+	Total Shares Holders Equity
+
+* Bigger = Better
+* The company in making lot of money off the investments that shareholder have made
+
+29% in a good ROE
+
+Apple computer 1995 - 424 ÷ 2901 = 15%
+		net income     Share holders equity
+
+1996	income		      - 816   =  -40%
+
+ipod 2006 - 23%
+     2008 - 27%
+     2011 - 42%     (25.9 billion)
